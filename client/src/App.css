@@ -1,0 +1,23 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.information {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
+}
+
+.information input {
+  width: 10vw;
+  height: 1vw;
+}
+
+button {
+  margin: 1rem;
+  width: 10vw;
+  margin: 1rem auto auto auto;
+}
